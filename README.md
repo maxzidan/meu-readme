@@ -26,7 +26,7 @@
 Facilitar o desenvolvimento de um readme, de maneira visual e que tenha todos os conteúdos necessários.
 
 ## Features
-- [x] Hierarqui visual
+- [x] Hierarquia visual
 - [x] Sintaxe markdown
 - [x] Organização da documentação
 - [x] Utilização das shields
@@ -41,7 +41,7 @@ Facilitar o desenvolvimento de um readme, de maneira visual e que tenha todos os
 
 ### **Instalação**
 1. Clonar o repositório `git clone`
-2. Abrir o reame
+2. Abrir o readme
 3. Visualizar pela extensão 
 
 ## Como contribuir
@@ -63,4 +63,3 @@ Facilitar o desenvolvimento de um readme, de maneira visual e que tenha todos os
 ---
 
 ### Desenvolvido
-
